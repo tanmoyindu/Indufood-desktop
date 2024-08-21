@@ -129,8 +129,10 @@ body {
   padding: 1.6rem 3.2rem;
   border-radius: 10px;
   text-decoration: none;
+
   /* put transition on original state */
-  transition: background-color 1s;
+  /* transition: background-color 1s; */
+  transition: all 1s;
 }
 
 .btn--full:link,
