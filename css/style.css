@@ -359,7 +359,16 @@
   padding: 1.6rem;
 }
 
+.gallery-item {
+  overflow: hidden;
+}
+
 .gallery-item img {
   display: block;
   width: 100%;
+  transition: all 0.5s;
+}
+
+.gallery-item img:hover {
+  transform: rotate(45deg);
 }
