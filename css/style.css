@@ -372,3 +372,11 @@
 .gallery-item img:hover {
   transform: rotate(45deg);
 }
+
+/**********************/
+/* Pricing section */
+/**********************/
+
+.section-pricing {
+  padding: 9.6rem 0;
+}
