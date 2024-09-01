@@ -481,7 +481,6 @@
 
   background-image: linear-gradient(to right, #eb984e, #e67e22);
   overflow: hidden;
-  height: 50rem;
 }
 
 .cta-text-box {
@@ -539,8 +538,4 @@
 
 .cta-form input::placeholder {
   color: #aaa;
-}
-.cta-form select {
-}
-.cta-form button {
 }
