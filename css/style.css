@@ -54,6 +54,19 @@
   background-color: #cf711f;
 }
 
+/* Mobile Navigation */
+
+.btn-mobile-nav {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.icon-mobile-nav {
+  height: 4.8rem;
+  width: 4.8rem;
+  color: #333;
+}
 /**********************/
 /* Hero */
 /**********************/
