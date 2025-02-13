@@ -30,4 +30,5 @@ To set up the Indufood website on your local machine, follow these steps:
 Clone the repository: https://github.com/tanmoyindu/indufood-website.git
 
 Navigate to the project folder: cd indufood-website
+
 Open index.html in your browser to view the website.
